@@ -1,0 +1,6 @@
+framework module Pods_CustomPushNotification {
+  umbrella header "Pods-CustomPushNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
